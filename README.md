@@ -1,2 +1,2 @@
 # Objective-C
-Getting Started With Objective-C.
+Learning the basics of Objective-C programming language.
